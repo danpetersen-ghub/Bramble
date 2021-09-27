@@ -106,6 +106,7 @@ a:hover, a:focus, a:active {
   background: none;
   -webkit-transition: .3s all;
   transition: .3s all;
+  background: #FFF;
 }
 
 @media screen and (max-width: 768px) {
